@@ -7,13 +7,27 @@ Copmletely Fair Scheduler (CFS), Ingo Molnar
 ```
 
 ## Page Replacement
+```
 Working Set Clock (WSClock)
+```
+page size = 1024 bytes
 
-## Memory Allocation Management
-Quick Fit
+
+## Memory Allocation Mechanism
+```
+Buddy Algorithm
+```
+
 
 ## Virtual and Physical Address lengths
 64 bits
 
+
 ## Page Table
-Segments
+Segments: text, data, stack
+
+
+## File System Structure
+```
+i-nodes
+```
