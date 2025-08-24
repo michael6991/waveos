@@ -1,5 +1,5 @@
 # WaveOS
-My own written UNIX like ? operating system.
+My own written UNIX like operating system.
 Multi-threded kernel that runs on a x86 machine.
 64-bit (but preferably 32-bit)
 
